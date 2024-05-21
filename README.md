@@ -1,10 +1,8 @@
 
 # Eduardo-Lima
 
+<img align="right" src="https://github.com/EduardoLucasdeLima/EduardoLucasdeLima/blob/main/capa-linguagens-em-alta.webp" width="550"/>
 
-<img align="right" src="https://github.com/EduardoLucasdeLima/EDUARDOLIMA/blob/main/logGit.jpg" width="450"/>
-
- 
 Bem-vindo ao meu perfil! 
 Sou um entusiasta de TI atuamente cursando Ciências da Computação, apaixonado por criar soluções de software que fazem a diferença. Aqui está um pouco sobre mim:
  
