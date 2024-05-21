@@ -3,7 +3,7 @@
 
 
 <img align="right" src="https://github.com/EduardoLucasdeLima/EDUARDOLIMA/blob/main/logGit.jpg" width="450"/>
- 
+
  
 Bem-vindo ao meu perfil! 
 Sou um entusiasta de TI atuamente cursando Ciências da Computação, apaixonado por criar soluções de software que fazem a diferença. Aqui está um pouco sobre mim:
@@ -33,16 +33,15 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
  
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 </div>
  
 ## Hard Skills DB
 
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </div>
  
 ## My Stats
