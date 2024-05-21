@@ -41,6 +41,7 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
 
 <div style="display: flex;">
 <img src="https://github.com/EduardoLucasdeLima/EDUARDOLIMA/blob/main/sql-file-format-symbol-svgrepo-com.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </div>
  
